@@ -1,3 +1,5 @@
+file: https://github.com/alisham30/data-analysis-project/blob/main/musicanalysis%20project.pbix
+
 ✅ 📁 1. Project Overview
 
 This project analyzes music streaming session data using a properly designed star schema consisting of:
